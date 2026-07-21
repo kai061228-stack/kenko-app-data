@@ -32,8 +32,8 @@
     "instruction": "腕をまっすぐ上に伸ばして下ろす",
     "posture": "sitting",
     "pool": "basic",
-    "embedVideoId": null,
-    "detailVideoUrl": null
+    "embedVideoId": "rh5R1iXo2kE",
+    "detailVideoUrl": "https://youtu.be/jC8RQa4EOJM"
   },
   {
     "id": "elbow_bend",
@@ -44,8 +44,8 @@
     "instruction": "手を握り、肘をゆっくり曲げ伸ばしする",
     "posture": "sitting",
     "pool": "basic",
-    "embedVideoId": null,
-    "detailVideoUrl": null
+    "embedVideoId": "igm1uxnlWs0",
+    "detailVideoUrl": "https://youtu.be/Nq6LIVKxspM"
   },
   {
     "id": "grip_wrist",
@@ -56,8 +56,8 @@
     "instruction": "手を握って開く、手首を回す",
     "posture": "sitting",
     "pool": "basic",
-    "embedVideoId": null,
-    "detailVideoUrl": null
+    "embedVideoId": "PlVxN5hOIf8",
+    "detailVideoUrl": "https://youtu.be/7UaYMMan4Aw"
   },
   {
     "id": "torso_twist",
@@ -80,8 +80,8 @@
     "instruction": "上体を横にゆっくり倒す",
     "posture": "sitting",
     "pool": "basic",
-    "embedVideoId": null,
-    "detailVideoUrl": null
+    "embedVideoId": "8VAEvRbxoJw",
+    "detailVideoUrl": "https://youtu.be/b4zzzeiYL0Q"
   },
   {
     "id": "marching",
