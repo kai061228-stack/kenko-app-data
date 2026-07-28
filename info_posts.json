@@ -1,0 +1,22 @@
+[
+  {
+    "id": "001",
+    "title": "梅雨時期の転倒に注意しましょう",
+    "category": "健康情報",
+    "type": "article",
+    "embedVideoId": "",
+    "body": "梅雨の時期は床が滑りやすくなります。お風呂場やトイレの床が濡れていないか、こまめに確認しましょう。滑りにくいスリッパの使用もおすすめです。",
+    "imageUrl": "",
+    "publishedDate": "2026-07-28"
+  },
+  {
+    "id": "002",
+    "title": "自主トレのコツ（動画）",
+    "category": "健康情報",
+    "type": "video",
+    "embedVideoId": "ここにYouTube動画ID",
+    "body": "",
+    "imageUrl": "",
+    "publishedDate": "2026-07-28"
+  }
+]
