@@ -1,0 +1,25 @@
+{
+  "brainTrainingVideos": [
+    {
+      "id": "bt001",
+      "title": "脳トレ①-1問目",
+      "videoId": "",
+      "category": "計算",
+      "addedDate": "2026-08-06"
+    },
+    {
+      "id": "bt002",
+      "title": "脳トレ①-2問目",
+      "videoId": "",
+      "category": "言葉",
+      "addedDate": "2026-08-06"
+    },
+    {
+      "id": "bt003",
+      "title": "脳トレ①-3問目",
+      "videoId": "",
+      "category": "記憶",
+      "addedDate": "2026-08-06"
+    }
+  ]
+}
