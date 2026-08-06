@@ -8,6 +8,7 @@
     "instruction": "肩の力を抜いて首をゆっくり右左に傾ける。めまいや痛みが出たらやめる",
     "posture": "sitting",
     "pool": "basic",
+    "muscleGroup": "upper",
     "embedVideoId": "z0ryz6kKfKM",
     "detailVideoUrl": "https://youtu.be/uVjUwRRQ3go"
   },
@@ -20,6 +21,7 @@
     "instruction": "両肩を大きく前後にまわす。呼吸は止めない",
     "posture": "sitting",
     "pool": "basic",
+    "muscleGroup": "upper",
     "embedVideoId": "phtQ33E0_vs",
     "detailVideoUrl":"https://youtu.be/4di5JmWC2o8"
   },
@@ -32,6 +34,7 @@
     "instruction": "腕をまっすぐ上に伸ばして下ろす",
     "posture": "sitting",
     "pool": "basic",
+    "muscleGroup": "upper",
     "embedVideoId": "rh5R1iXo2kE",
     "detailVideoUrl": "https://youtu.be/jC8RQa4EOJM"
   },
@@ -44,6 +47,7 @@
     "instruction": "手を握り、肘をゆっくり曲げ伸ばしする",
     "posture": "sitting",
     "pool": "basic",
+    "muscleGroup": "upper",
     "embedVideoId": "igm1uxnlWs0",
     "detailVideoUrl": "https://youtu.be/Nq6LIVKxspM"
   },
@@ -56,6 +60,7 @@
     "instruction": "手を握って開く、手首を回す",
     "posture": "sitting",
     "pool": "basic",
+    "muscleGroup": "upper",
     "embedVideoId": "PlVxN5hOIf8",
     "detailVideoUrl": "https://youtu.be/7UaYMMan4Aw"
   },
@@ -68,6 +73,7 @@
     "instruction": "座って上半身を左右にひねる",
     "posture": "sitting",
     "pool": "basic",
+    "muscleGroup": "upper",
     "embedVideoId":"UpFv-d-USLE",
     "detailVideoUrl": "https://youtu.be/k78ngDn-8wc"
   },
@@ -80,6 +86,7 @@
     "instruction": "上体を横にゆっくり倒す",
     "posture": "sitting",
     "pool": "basic",
+    "muscleGroup": "upper",
     "embedVideoId": "8VAEvRbxoJw",
     "detailVideoUrl": "https://youtu.be/b4zzzeiYL0Q"
   },
@@ -92,6 +99,7 @@
     "instruction": "座ったまま足踏み。腕も軽く振る",
     "posture": "sitting",
     "pool": "basic",
+    "muscleGroup": "lower",
     "embedVideoId": "b0bfjlsKT-0",
     "detailVideoUrl": "https://youtu.be/YjL8M81i8t8"
   },
@@ -104,6 +112,7 @@
     "instruction": "膝をまっすぐ伸ばして下ろす",
     "posture": "sitting",
     "pool": "basic",
+    "muscleGroup": "lower",
     "embedVideoId": "0dEEcPYJQCs",
     "detailVideoUrl": "https://youtu.be/OGSrvZCo5Wo"
   },
@@ -116,6 +125,7 @@
     "instruction": "足を前に出してふくらはぎを伸ばす",
     "posture": "sitting",
     "pool": "basic",
+    "muscleGroup": "lower",
     "embedVideoId": null,
     "detailVideoUrl": null
   },
@@ -128,6 +138,7 @@
     "instruction": "足首を上下に動かす",
     "posture": "sitting",
     "pool": "basic",
+    "muscleGroup": "lower",
     "embedVideoId": null,
     "detailVideoUrl": null
   },
@@ -140,6 +151,7 @@
     "instruction": "足の指を握って開く",
     "posture": "sitting",
     "pool": "basic",
+    "muscleGroup": "lower",
     "embedVideoId": null,
     "detailVideoUrl": null
   },
@@ -152,6 +164,7 @@
     "instruction": "椅子から立ち上がって座る動きをゆっくり繰り返す",
     "posture": "standing",
     "pool": "unlocked",
+    "muscleGroup": "lower",
     "embedVideoId": null,
     "detailVideoUrl": null
   },
@@ -164,6 +177,7 @@
     "instruction": "両足のかかとをゆっくり上げ下げする",
     "posture": "standing",
     "pool": "unlocked",
+    "muscleGroup": "lower",
     "embedVideoId": null,
     "detailVideoUrl": null
   },
@@ -176,6 +190,7 @@
     "instruction": "椅子や壁に手を添えて、足を横にゆっくり上げ下げする",
     "posture": "standing",
     "pool": "unlocked",
+    "muscleGroup": "lower",
     "embedVideoId": null,
     "detailVideoUrl": null
   },
@@ -188,6 +203,7 @@
     "instruction": "椅子や壁に手を添えて、片足で立つ",
     "posture": "standing",
     "pool": "unlocked",
+    "muscleGroup": "lower",
     "embedVideoId": null,
     "detailVideoUrl": null
   }
