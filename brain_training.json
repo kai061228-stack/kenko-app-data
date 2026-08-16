@@ -16,10 +16,17 @@
     },
     {
       "id": "bt003",
-      "title": "脳トレ①-3問目",
-      "videoId": "",
-      "category": "記憶",
-      "addedDate": "2026-08-06"
+      "title": "並び替えクイズ",
+      "videoId": "aTuEc9UAERw",
+      "category": "word_rearrange",
+      "addedDate": "2026-08-16"
+    },
+    {
+      "id": "bt004",
+      "title": "ことわざ穴埋めクイズ",
+      "videoId": "I93PB7JL6zc",
+      "category": "proverb",
+      "addedDate": "2026-08-16"
     }
   ]
 }
