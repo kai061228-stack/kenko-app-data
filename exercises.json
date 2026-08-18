@@ -10,7 +10,8 @@
     "pool": "basic",
     "muscleGroup": "upper",
     "embedVideoId": "z0ryz6kKfKM",
-    "detailVideoUrl": "https://youtu.be/uVjUwRRQ3go"
+    "detailVideoUrl": "https://youtu.be/uVjUwRRQ3go",
+    "tags": ["首", "上半身", "座位"]
   },
   {
     "id": "shoulder_roll",
@@ -23,7 +24,8 @@
     "pool": "basic",
     "muscleGroup": "upper",
     "embedVideoId": "phtQ33E0_vs",
-    "detailVideoUrl":"https://youtu.be/4di5JmWC2o8"
+    "detailVideoUrl":"https://youtu.be/4di5JmWC2o8",
+    "tags": ["肩", "上半身", "座位"]
   },
   {
     "id": "banzai",
@@ -36,7 +38,8 @@
     "pool": "basic",
     "muscleGroup": "upper",
     "embedVideoId": "rh5R1iXo2kE",
-    "detailVideoUrl": "https://youtu.be/jC8RQa4EOJM"
+    "detailVideoUrl": "https://youtu.be/jC8RQa4EOJM",
+    "tags": ["肩", "腕", "上半身", "座位"]
   },
   {
     "id": "elbow_bend",
@@ -49,7 +52,8 @@
     "pool": "basic",
     "muscleGroup": "upper",
     "embedVideoId": "igm1uxnlWs0",
-    "detailVideoUrl": "https://youtu.be/Nq6LIVKxspM"
+    "detailVideoUrl": "https://youtu.be/Nq6LIVKxspM",
+    "tags": ["腕", "上半身", "座位"]
   },
   {
     "id": "grip_wrist",
@@ -62,7 +66,8 @@
     "pool": "basic",
     "muscleGroup": "upper",
     "embedVideoId": "PlVxN5hOIf8",
-    "detailVideoUrl": "https://youtu.be/7UaYMMan4Aw"
+    "detailVideoUrl": "https://youtu.be/7UaYMMan4Aw",
+    "tags": ["手", "手首", "上半身", "座位"]
   },
   {
     "id": "torso_twist",
@@ -75,7 +80,8 @@
     "pool": "basic",
     "muscleGroup": "upper",
     "embedVideoId":"UpFv-d-USLE",
-    "detailVideoUrl": "https://youtu.be/k78ngDn-8wc"
+    "detailVideoUrl": "https://youtu.be/k78ngDn-8wc",
+    "tags": ["体幹", "上半身", "座位"]
   },
   {
     "id": "side_bend",
@@ -88,7 +94,8 @@
     "pool": "basic",
     "muscleGroup": "upper",
     "embedVideoId": "8VAEvRbxoJw",
-    "detailVideoUrl": "https://youtu.be/b4zzzeiYL0Q"
+    "detailVideoUrl": "https://youtu.be/b4zzzeiYL0Q",
+    "tags": ["体幹", "上半身", "座位"]
   },
   {
     "id": "marching",
@@ -101,7 +108,8 @@
     "pool": "basic",
     "muscleGroup": "lower",
     "embedVideoId": "b0bfjlsKT-0",
-    "detailVideoUrl": "https://youtu.be/YjL8M81i8t8"
+    "detailVideoUrl": "https://youtu.be/YjL8M81i8t8",
+    "tags": ["脚", "下半身", "座位"]
   },
   {
     "id": "knee_extension",
@@ -114,7 +122,8 @@
     "pool": "basic",
     "muscleGroup": "lower",
     "embedVideoId": "0dEEcPYJQCs",
-    "detailVideoUrl": "https://youtu.be/OGSrvZCo5Wo"
+    "detailVideoUrl": "https://youtu.be/OGSrvZCo5Wo",
+    "tags": ["膝", "脚", "下半身", "座位"]
   },
   {
     "id": "calf_stretch",
@@ -127,7 +136,8 @@
     "pool": "basic",
     "muscleGroup": "lower",
     "embedVideoId": null,
-    "detailVideoUrl": null
+    "detailVideoUrl": null,
+    "tags": ["ふくらはぎ", "脚", "下半身", "座位"]
   },
   {
     "id": "ankle_bend",
@@ -140,7 +150,8 @@
     "pool": "basic",
     "muscleGroup": "lower",
     "embedVideoId": null,
-    "detailVideoUrl": null
+    "detailVideoUrl": null,
+    "tags": ["足首", "下半身", "座位"]
   },
   {
     "id": "toe_bend",
@@ -153,7 +164,8 @@
     "pool": "basic",
     "muscleGroup": "lower",
     "embedVideoId": null,
-    "detailVideoUrl": null
+    "detailVideoUrl": null,
+    "tags": ["足指", "下半身", "座位"]
   },
   {
     "id": "stand_up_sit_down",
@@ -166,7 +178,8 @@
     "pool": "unlocked",
     "muscleGroup": "lower",
     "embedVideoId": null,
-    "detailVideoUrl": null
+    "detailVideoUrl": null,
+    "tags": ["脚", "下半身", "立位"]
   },
   {
     "id": "heel_raise",
@@ -179,7 +192,8 @@
     "pool": "unlocked",
     "muscleGroup": "lower",
     "embedVideoId": null,
-    "detailVideoUrl": null
+    "detailVideoUrl": null,
+    "tags": ["ふくらはぎ", "脚", "下半身", "立位"]
   },
   {
     "id": "side_leg_raise",
@@ -192,7 +206,8 @@
     "pool": "unlocked",
     "muscleGroup": "lower",
     "embedVideoId": null,
-    "detailVideoUrl": null
+    "detailVideoUrl": null,
+    "tags": ["股関節", "脚", "下半身", "立位"]
   },
   {
     "id": "one_leg_stand",
@@ -205,6 +220,7 @@
     "pool": "unlocked",
     "muscleGroup": "lower",
     "embedVideoId": null,
-    "detailVideoUrl": null
+    "detailVideoUrl": null,
+    "tags": ["バランス", "下半身", "立位"]
   }
 ]
