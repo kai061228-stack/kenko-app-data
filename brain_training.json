@@ -1,4 +1,6 @@
 {
+  "baseDate": "2026-08-20",
+  "baseIndex": 3,
   "brainTrainingVideos": [
     {
       "id": "bt001",
@@ -41,6 +43,27 @@
       "videoId": "PvxKAKRlT30",
       "category": "shiritori_fill",
       "addedDate": "2026-08-18"
+    },
+    {
+      "id": "bt007",
+      "title": "間違い探し",
+      "videoId": "eMerqOArMec",
+      "category": "spot_the_difference",
+      "addedDate": "2026-08-20"
+    },
+    {
+      "id": "bt008",
+      "title": "十字漢字穴埋め",
+      "videoId": "fSakF3Im6kI",
+      "category": "kanji_cross",
+      "addedDate": "2026-08-20"
+    },
+    {
+      "id": "bt009",
+      "title": "足し算引き算",
+      "videoId": "5sjkmsakU0A",
+      "category": "calculation",
+      "addedDate": "2026-08-20"
     }
   ]
 }
