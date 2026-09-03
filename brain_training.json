@@ -1,6 +1,6 @@
 {
-  "baseDate": "2026-08-20",
-  "baseIndex": 3,
+  "baseDate": "2026-09-03",
+  "baseIndex": 8,
   "brainTrainingVideos": [
     {
       "id": "bt001",
@@ -64,6 +64,97 @@
       "videoId": "5sjkmsakU0A",
       "category": "calculation",
       "addedDate": "2026-08-20"
+    },
+    {
+      "id": "bt010",
+      "title": "第10回 並び替えクイズ",
+      "videoId": "9oRgRnYGdNA",
+      "category": "word_rearrange",
+      "addedDate": "2026-09-03"
+    },
+    {
+      "id": "bt011",
+      "title": "第11回 ことわざ穴埋めクイズ",
+      "videoId": "NFNyfao2n5I",
+      "category": "proverb",
+      "addedDate": "2026-09-03"
+    },
+    {
+      "id": "bt012",
+      "title": "第12回 仲間外れクイズ",
+      "videoId": "H605kz6NhO4",
+      "category": "odd_one_out",
+      "addedDate": "2026-09-03"
+    },
+    {
+      "id": "bt013",
+      "title": "第13回 穴埋めしりとり",
+      "videoId": "bTeLNPvwZ3w",
+      "category": "shiritori_fill",
+      "addedDate": "2026-09-03"
+    },
+    {
+      "id": "bt014",
+      "title": "第14回 間違い探し",
+      "videoId": "iELj-V6IQf0",
+      "category": "spot_the_difference",
+      "addedDate": "2026-09-03"
+    },
+    {
+      "id": "bt015",
+      "title": "第15回 十字漢字穴埋め",
+      "videoId": "gD3CYTYmi0c",
+      "category": "kanji_cross",
+      "addedDate": "2026-09-03"
+    },
+    {
+      "id": "bt016",
+      "title": "第16回 足し算引き算",
+      "videoId": "vxZHRXS46_I",
+      "category": "calculation",
+      "addedDate": "2026-09-03"
+    },
+    {
+      "id": "bt017",
+      "title": "第17回 並び替えクイズ",
+      "videoId": "Rkw1Lw1U7Dg",
+      "category": "word_rearrange",
+      "addedDate": "2026-09-03"
+    },
+    {
+      "id": "bt018",
+      "title": "第18回 ことわざ穴埋めクイズ",
+      "videoId": "5pKkSpHsiLc",
+      "category": "proverb",
+      "addedDate": "2026-09-03"
+    },
+    {
+      "id": "bt019",
+      "title": "第19回 仲間外れクイズ",
+      "videoId": "XpQFq8afIbY",
+      "category": "odd_one_out",
+      "addedDate": "2026-09-03"
+    },
+    {
+      "id": "bt020",
+      "title": "第20回 穴埋めしりとり",
+      "videoId": "zx1Zz3c0gTo",
+      "category": "shiritori_fill",
+      "addedDate": "2026-09-03"
+    },
+    {
+      "id": "bt021",
+      "title": "第21回 間違い探し",
+      "videoId": "QhZL_Mk6cAs",
+      "category": "spot_the_difference",
+      "addedDate": "2026-09-03"
+    },
+    {
+      "id": "bt022",
+      "title": "第22回 十字漢字穴埋め",
+      "videoId": "4a4w_5orVHA",
+      "category": "kanji_cross",
+      "addedDate": "2026-09-03"
     }
   ]
 }
