@@ -1,16 +1,15 @@
 [
   {
     "id": "neck_tilt",
-    "name": "首をゆっくり動かす",
+    "name": "首の横傾けストレッチ",
     "bodyPart": "首",
     "level": 1,
-    "reps": "右左ゆっくり",
-    "instruction": "肩の力を抜いて首をゆっくり右左に傾ける。めまいや痛みが出たらやめる",
+    "reps": "左右交互に10回",
+    "instruction": "肩が動かないよう首をゆっくり右左に傾ける。",
     "posture": "sitting",
     "pool": "basic",
     "muscleGroup": "upper",
-    "embedVideoId": "z0ryz6kKfKM",
-    "detailVideoUrl": "https://youtu.be/uVjUwRRQ3go",
+    "embedVideoId": "uVjUwRRQ3go",
     "tags": ["首", "上半身", "座位"]
   },
   {
@@ -18,13 +17,12 @@
     "name": "肩まわし",
     "bodyPart": "肩",
     "level": 1,
-    "reps": "前後5回",
-    "instruction": "両肩を大きく前後にまわす。呼吸は止めない",
+    "reps": "前5回、後5回",
+    "instruction": "両肩を大きく前後にまわす。",
     "posture": "sitting",
     "pool": "basic",
     "muscleGroup": "upper",
-    "embedVideoId": "phtQ33E0_vs",
-    "detailVideoUrl":"https://youtu.be/4di5JmWC2o8",
+    "embedVideoId": "4di5JmWC2o8",
     "tags": ["肩", "上半身", "座位"]
   },
   {
@@ -37,8 +35,7 @@
     "posture": "sitting",
     "pool": "basic",
     "muscleGroup": "upper",
-    "embedVideoId": "rh5R1iXo2kE",
-    "detailVideoUrl": "https://youtu.be/jC8RQa4EOJM",
+    "embedVideoId": "jC8RQa4EOJM",
     "tags": ["肩", "腕", "上半身", "座位"]
   },
   {
@@ -51,8 +48,7 @@
     "posture": "sitting",
     "pool": "basic",
     "muscleGroup": "upper",
-    "embedVideoId": "igm1uxnlWs0",
-    "detailVideoUrl": "https://youtu.be/Nq6LIVKxspM",
+    "embedVideoId": "Nq6LIVKxspM",
     "tags": ["腕", "上半身", "座位"]
   },
   {
@@ -65,8 +61,7 @@
     "posture": "sitting",
     "pool": "basic",
     "muscleGroup": "upper",
-    "embedVideoId": "PlVxN5hOIf8",
-    "detailVideoUrl": "https://youtu.be/7UaYMMan4Aw",
+    "embedVideoId": "7UaYMMan4Aw",
     "tags": ["手", "手首", "上半身", "座位"]
   },
   {
@@ -79,8 +74,7 @@
     "posture": "sitting",
     "pool": "basic",
     "muscleGroup": "upper",
-    "embedVideoId":"UpFv-d-USLE",
-    "detailVideoUrl": "https://youtu.be/k78ngDn-8wc",
+    "embedVideoId": "k78ngDn-8wc",
     "tags": ["体幹", "上半身", "座位"]
   },
   {
@@ -93,8 +87,7 @@
     "posture": "sitting",
     "pool": "basic",
     "muscleGroup": "upper",
-    "embedVideoId": "8VAEvRbxoJw",
-    "detailVideoUrl": "https://youtu.be/b4zzzeiYL0Q",
+    "embedVideoId": "b4zzzeiYL0Q",
     "tags": ["体幹", "上半身", "座位"]
   },
   {
@@ -107,8 +100,7 @@
     "posture": "sitting",
     "pool": "basic",
     "muscleGroup": "lower",
-    "embedVideoId": "b0bfjlsKT-0",
-    "detailVideoUrl": "https://youtu.be/YjL8M81i8t8",
+    "embedVideoId": "YjL8M81i8t8",
     "tags": ["脚", "下半身", "座位"]
   },
   {
@@ -121,8 +113,7 @@
     "posture": "sitting",
     "pool": "basic",
     "muscleGroup": "lower",
-    "embedVideoId": "0dEEcPYJQCs",
-    "detailVideoUrl": "https://youtu.be/OGSrvZCo5Wo",
+    "embedVideoId": "OGSrvZCo5Wo",
     "tags": ["膝", "脚", "下半身", "座位"]
   },
   {
@@ -135,8 +126,8 @@
     "posture": "sitting",
     "pool": "basic",
     "muscleGroup": "lower",
-    "embedVideoId": "S3f1Qvg8E1E",
-    "detailVideoUrl": "https://youtu.be/S3f1Qvg8E1E",
+    "embedVideoId": "VbfR_E6lzLU",
+    "exerciseOnlyVideoId": "S3f1Qvg8E1E",
     "tags": ["ふくらはぎ", "脚", "下半身", "座位"]
   },
   {
@@ -149,8 +140,8 @@
     "posture": "sitting",
     "pool": "basic",
     "muscleGroup": "lower",
-    "embedVideoId": "7mK6SZ36lPo",
-    "detailVideoUrl": "https://youtu.be/7mK6SZ36lPo",
+    "embedVideoId": "6BTToTnmnqY",
+    "exerciseOnlyVideoId": "7mK6SZ36lPo",
     "tags": ["足首", "下半身", "座位"]
   },
   {
@@ -163,8 +154,8 @@
     "posture": "sitting",
     "pool": "basic",
     "muscleGroup": "lower",
-    "embedVideoId": "FxSvb8KUB_4",
-    "detailVideoUrl": "https://youtu.be/FxSvb8KUB_4",
+    "embedVideoId": "OMz5RZowia0",
+    "exerciseOnlyVideoId": "FxSvb8KUB_4",
     "tags": ["足指", "下半身", "座位"]
   },
   {
@@ -178,7 +169,6 @@
     "pool": "unlocked",
     "muscleGroup": "lower",
     "embedVideoId": null,
-    "detailVideoUrl": null,
     "tags": ["脚", "下半身", "立位"]
   },
   {
@@ -192,7 +182,6 @@
     "pool": "unlocked",
     "muscleGroup": "lower",
     "embedVideoId": null,
-    "detailVideoUrl": null,
     "tags": ["ふくらはぎ", "脚", "下半身", "立位"]
   },
   {
@@ -206,7 +195,6 @@
     "pool": "unlocked",
     "muscleGroup": "lower",
     "embedVideoId": null,
-    "detailVideoUrl": null,
     "tags": ["股関節", "脚", "下半身", "立位"]
   },
   {
@@ -220,7 +208,6 @@
     "pool": "unlocked",
     "muscleGroup": "lower",
     "embedVideoId": null,
-    "detailVideoUrl": null,
     "tags": ["バランス", "下半身", "立位"]
   }
 ]
