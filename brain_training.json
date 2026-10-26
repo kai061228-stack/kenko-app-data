@@ -1,6 +1,6 @@
 {
-  "baseDate": "2026-10-11",
-  "baseIndex": 46,
+  "baseDate": "2026-10-26",
+  "baseIndex": 2,
   "brainTrainingVideos": [
     {
       "id": "bt001",
@@ -414,6 +414,125 @@
       "videoId": "ZJdc0kKqgUs",
       "category": "word_rearrange",
       "addedDate": "2026-10-10"
+    },
+    {
+      "id": "bt060",
+      "title": "第60回 ことわざ穴埋めクイズ",
+      "videoId": "3g6lxnlai3s",
+      "category": "proverb",
+      "addedDate": "2026-10-11"
+    },
+    {
+      "id": "bt061",
+      "title": "第61回 仲間外れクイズ",
+      "videoId": "BpPK3FH0kxQ",
+      "category": "odd_one_out",
+      "addedDate": "2026-10-11"
+    },
+    {
+      "id": "bt062",
+      "title": "第62回 穴埋めしりとり",
+      "videoId": "EmSSJkljMK4",
+      "category": "shiritori_fill",
+      "addedDate": "2026-10-12"
+    },
+    {
+      "id": "bt063",
+      "title": "第63回 仲間外れ文字探し",
+      "videoId": "ry9rxj0h5wk",
+      "category": "spot_the_difference",
+      "addedDate": "2026-10-13"
+    },
+    {
+      "id": "bt064",
+      "title": "第64回 十字漢字穴埋め",
+      "videoId": "BkJhzJMiImk",
+      "category": "kanji_cross",
+      "addedDate": "2026-10-14"
+    },
+    {
+      "id": "bt065",
+      "title": "第65回 計算（足し算・引き算）",
+      "videoId": "WBz7MbdqusQ",
+      "category": "calculation",
+      "addedDate": "2026-10-15"
+    },
+    {
+      "id": "bt066",
+      "title": "第66回 並び替えクイズ",
+      "videoId": "GJnVbWUrATk",
+      "category": "word_rearrange",
+      "addedDate": "2026-10-16"
+    },
+    {
+      "id": "bt067",
+      "title": "第67回 ことわざ穴埋めクイズ",
+      "videoId": "ddPyYJpoElk",
+      "category": "proverb",
+      "addedDate": "2026-10-18"
+    },
+    {
+      "id": "bt068",
+      "title": "第68回 仲間外れクイズ",
+      "videoId": "CfFVjrxEYaY",
+      "category": "odd_one_out",
+      "addedDate": "2026-10-18"
+    },
+    {
+      "id": "bt069",
+      "title": "第69回 穴埋めしりとり",
+      "videoId": "je0k8oi7UDk",
+      "category": "shiritori_fill",
+      "addedDate": "2026-10-19"
+    },
+    {
+      "id": "bt070",
+      "title": "第70回 仲間外れ文字探し",
+      "videoId": "Oub6Ma4jo4o",
+      "category": "spot_the_difference",
+      "addedDate": "2026-10-20"
+    },
+    {
+      "id": "bt071",
+      "title": "第71回 十字漢字穴埋め",
+      "videoId": "o4FcCvokSWE",
+      "category": "kanji_cross",
+      "addedDate": "2026-10-21"
+    },
+    {
+      "id": "bt072",
+      "title": "第72回 計算（足し算・引き算）",
+      "videoId": "ENmCr16oGCk",
+      "category": "calculation",
+      "addedDate": "2026-10-22"
+    },
+    {
+      "id": "bt073",
+      "title": "第73回 並び替えクイズ",
+      "videoId": "qcebYcfllF8",
+      "category": "word_rearrange",
+      "addedDate": "2026-10-23"
+    },
+    {
+      "id": "bt074",
+      "title": "第74回 ことわざ穴埋めクイズ",
+      "videoId": "I_dO5AoAKtQ",
+      "category": "proverb",
+      "addedDate": "2026-10-25"
+    },
+    {
+      "id": "bt075",
+      "title": "第75回 仲間外れクイズ",
+      "videoId": "dManH616lDQ",
+      "category": "odd_one_out",
+      "addedDate": "2026-10-25"
+    },
+    {
+      "id": "bt076",
+      "title": "第76回 穴埋めしりとり",
+      "videoId": "QWLldGwxyF0",
+      "category": "shiritori_fill",
+      "addedDate": "2026-10-26"
     }
   ]
 }
